@@ -4,3 +4,4 @@
 - Debian 10 Buster XFCE
 ```
 My personal .bashrc PS1 prompt configuration
+Kali linux prompt inspiration :)
