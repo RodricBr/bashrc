@@ -1,3 +1,6 @@
-# bashrc
+# .bashrc
+```markdown
 - Bash v5.0.3
-### My personal .bashrc prompt
+- Debian 10 Buster XFCE
+```
+My personal .bashrc PS1 prompt configuration
