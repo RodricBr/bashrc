@@ -6,7 +6,7 @@
 # else
 # ps1='SSH'
 
-# Modelo 1 (muito maneiro, mas a ideia não é minha)
+# Modelo 1 (muito maneiro, modelo meu, mas a ideia não é minha)
 PS1='${debian_chroot:+($debian_chroot)}\n+ \[\033[38;5;57m\]\w\033[38;5;255m\] :: \[\033[38;5;57m\]\[\033[48;5;99m\]\u\[\033[38;5;8m\]\[\033[0m\] $ '
 
 # Modelo 2 (mais legal ainda, mas foi feito 100% por mim)
