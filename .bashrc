@@ -21,4 +21,4 @@ PS1='${debian_chroot:+($debian_chroot)}\n\[\033[38;5;57m\]┌[\u⏐🧙⏐\h]\[\
 # ┌[rodric⏐🧙⏐debian] ~/Directory 123
 # └─$ command --example
 #
-# 123 == Status code number
+# 123 == Status code number green colored
