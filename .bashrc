@@ -18,7 +18,7 @@ PS1='${debian_chroot:+($debian_chroot)}\n\[\033[38;5;57m\]┌[\u⏐🧙⏐\h]\[\
 
 # The prompt will be displayed as such:
 #
-# ┌[rodric⏐🧙⏐debian] ~/Directory 123
+# ┌[rodric⏐🧙⏐debian] ~/Directory 1337
 # └─$ command --example
 #
-# 123 == Status code number green colored and underlined
+# 1337 == Status code number green colored and underlined
