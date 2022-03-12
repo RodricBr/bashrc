@@ -33,7 +33,7 @@ PS1='${debian_chroot:+($debian_chroot)}\n\[\033[01;32m\]\u \[\033[00m\]\[\033[01
 
 # The prompt will be displayed as such:
 #
-# rodric ~ 1337
+# rodric ~ ͟1͟3͟3͟7
 # $
 #
 # 1337 == Status code number green colored and underlined
