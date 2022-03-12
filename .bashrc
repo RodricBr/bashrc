@@ -22,3 +22,16 @@ PS1='${debian_chroot:+($debian_chroot)}\n\[\033[38;5;57m\]┌[\u⏐🧙⏐\h]\[\
 # └─$ command --example
 #
 # 1337 == Status code number green colored and underlined
+
+###############################################################
+
+# Third alternative (simple)
+
+PS1='${debian_chroot:+($debian_chroot)}\n\[\033[01;32m\]\u \[\033[00m\]\[\033[01;34m\]\w \[\033[00;32m$(echo $?)\033[00m\]\n\$ '
+
+# The prompt will be displayed as such:
+#
+# rodric ~ 1337
+# $
+#
+# 1337 == Status code number green colored and underlined
