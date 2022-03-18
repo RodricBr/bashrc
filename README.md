@@ -1,4 +1,4 @@
-# My personal .bashrc PS1
+# My personal .bashrc PS1 & PS2 prompt
 
 ```markdown
 - Bash v5.0.3
