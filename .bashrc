@@ -37,3 +37,16 @@ PS1='${debian_chroot:+($debian_chroot)}\n\[\033[01;32m\]\u \[\033[00m\]\[\033[01
 # $
 #
 # 1337 == Status code number green colored and underlined
+
+###############################################################
+
+# Bonus: PS2 (Continuation interactive prompt)
+
+export PS2='\033[32m└─🢒\033[00m '
+
+# The prompt will be displayed as such when there's a line break:
+#
+# └─🢒 echo \
+# └─🢒 testing \
+# └─🢒
+# echo testing
