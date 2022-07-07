@@ -46,7 +46,7 @@ export PS2='\033[32m└─🢒\033[00m '
 
 # The prompt will be displayed as such when there's a line break:
 #
-# └─🢒 echo \
-# └─🢒 testing \
-# └─🢒
-# echo testing
+# └─$ echo \
+# └─🢒 testing. \
+# └─🢒 .line two \
+# testing..line two
