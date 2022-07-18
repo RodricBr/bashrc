@@ -10,7 +10,7 @@ PS1='${debian_chroot:+($debian_chroot)}\n\[\e[0;$(($?==0?0:91))m\]*\[\e[0m\]\[\0
 # *┌[rodric⏐🧙⏐debian] ~
 #  └─$ command --example
 #
-# * == Stauts code (red = not 0)
+# * == Exit code (red = not 0)
 
 ###############################################################
 
@@ -23,7 +23,7 @@ PS1='${debian_chroot:+($debian_chroot)}\n\[\033[38;5;57m\]┌[\u⏐🧙⏐\h]\[\
 # ┌[rodric⏐🧙⏐debian] ~/Directory ͟1͟3͟3͟7
 # └─$ command --example
 #
-# 1337 == Status code number green colored and underlined
+# 1337 == Exit code number green colored and underlined
 
 ###############################################################
 
@@ -36,7 +36,7 @@ PS1='${debian_chroot:+($debian_chroot)}\n\[\033[01;32m\]\u \[\033[00m\]\[\033[01
 # rodric ~ ͟1͟3͟3͟7
 # $
 #
-# 1337 == Status code number green colored and underlined
+# 1337 == Exit code number green colored and underlined
 
 ###############################################################
 
