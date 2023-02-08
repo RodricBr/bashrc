@@ -50,3 +50,13 @@ export PS2='\033[32m└─🢒\033[00m '
 # └─🢒 testing. \
 # └─🢒 .line two \
 # testing..line two
+
+###############################################################
+
+# Bonus: History Format
+
+HISTTIMEFORMAT="%d/%m/%y - %T ├ "
+
+# The format shall be:
+# └─$ history
+# 506  01/02/23 - 23:23:23 ├ history
