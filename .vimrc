@@ -1,6 +1,3 @@
-" Esquema de cores setado no C:/Users/User/vimfiles/colors/elford.vim
-colorscheme elford
-
 " Ativando o uso do mouse(all modes)
 set mouse=a
 
