@@ -28,7 +28,7 @@ set nowritebackup
 set noswapfile
 
 " Cor de fundo & esquema de cores. Setado no C:/Users/User/vimfiles/colors/elford.vim (~/vimfiles/colors/nod-b.vim)
-" Tema: https://raw.githubusercontent.com/habamax/vim-nod/main/colors/nod-b.vim
+" tema: https://raw.githubusercontent.com/habamax/vim-nod/main/colors/nod-b.vim
 colorscheme nod-b
 
 " Encodação utf8
