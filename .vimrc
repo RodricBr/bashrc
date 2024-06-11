@@ -14,6 +14,7 @@ set backspace=2
 
 " Setando a identação automática
 set ai
+set smartindent
 
 " Setando a sintaxe highlighting
 syntax on
