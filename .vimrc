@@ -4,6 +4,14 @@ set mouse=a
 " Setando o número de linhas
 set number
 
+" O registro "unnamed" é sincronizado com a área de transferência do sistema
+" Existe também unnamedplus que permite colar e copiar com CTRL+V/C
+set clipboard=unnamed
+
+" Setando backspacing
+" (permite apagar caracteres e ativa identação automática)
+set backspace=2
+
 " Setando a identação automática
 set ai
 
